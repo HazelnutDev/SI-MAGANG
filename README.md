@@ -1,10 +1,7 @@
 # 🎓 SI-MAGANG  
 **Sistem Informasi Manajemen Magang Berbasis Web**
 
-> Aplikasi web untuk mengelola seluruh proses magang — mulai dari pendaftaran, verifikasi, monitoring kegiatan, hingga laporan dan penilaian — secara terstruktur, efisien, dan terdokumentasi.
-
 ### 🖥️ Preview Antarmuka Admin
-Dashboard Admin
 
 <p align="center">
   <img src="public/Docs/admin.png" alt="Tampilan Dashboard Admin" width="800"/>
@@ -12,7 +9,6 @@ Dashboard Admin
 
 
 ### 🖥️ Preview Antarmuka Mahasiswa
-Dashboard Mahasiswa
 
 <p align="center">
   <img src="public/Docs/mahasiswa.png" alt="Tampilan Dashboard Mahasiswa" width="800"/>
