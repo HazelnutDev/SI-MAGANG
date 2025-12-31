@@ -177,20 +177,6 @@ Akses aplikasi di:
 http://127.0.0.1:8000
 ```
 
-## 📌 Status Pengembangan
-```
-🟡 Development / Academic Project
-Masih dapat dikembangkan lebih lanjut:
-
-Export PDF
-
-Notifikasi email
-
-Multi-periode magang
-
-API integration
-```
-
 ### 📜 Lisensi
 ```
 Proyek ini menggunakan lisensi MIT License
@@ -205,10 +191,3 @@ Cocok untuk tugas akhir, portfolio, maupun sistem internal organisasi.
 Kalau kamu suka, jangan lupa ⭐ repository ini!
 ```
 ### 🔥 Happy coding & keep building!
-```
-Kalau mau next level:
-- ✅ Tambahin **badge (Laravel, PHP, License)**
-- ✅ Versi **README Bahasa Inggris**
-- ✅ Diagram **ERD / Flow Sistem**
-- ✅ Screenshot UI mockup
-```
