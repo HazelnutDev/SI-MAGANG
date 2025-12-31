@@ -7,7 +7,7 @@
 Dashboard Admin
 
 <p align="center">
-  <img src="public/Docs/Screenshot%202025-11-02%20100514.png" alt="Tampilan Dashboard Admin" width="800"/>
+  <img src="public/Docs/admin.png" alt="Tampilan Dashboard Admin" width="800"/>
 </p>
 
 
@@ -15,7 +15,7 @@ Dashboard Admin
 Dashboard Mahasiswa
 
 <p align="center">
-  <img src="public/Docs/Screenshot%202025-11-02%20100514.png" alt="Tampilan Dashboard Mahasiswa" width="800"/>
+  <img src="public/Docs/mahasiswa.png" alt="Tampilan Dashboard Mahasiswa" width="800"/>
 </p>
 ---
 
