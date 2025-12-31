@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.btn-primary { @apply inline-flex items-center px-4 py-2.5 rounded-xl text-sm font-bold text-white bg-violet-600 hover:bg-violet-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-violet-500; }
+.link-accent { @apply text-violet-600 hover:text-violet-500; }
+
+.card { @apply bg-white shadow-lg rounded-xl border border-gray-100; }
