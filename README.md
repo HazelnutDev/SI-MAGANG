@@ -3,6 +3,20 @@
 
 > Aplikasi web untuk mengelola seluruh proses magang — mulai dari pendaftaran, verifikasi, monitoring kegiatan, hingga laporan dan penilaian — secara terstruktur, efisien, dan terdokumentasi.
 
+### 🖥️ Preview Antarmuka Admin
+Dashboard Admin
+
+<p align="center">
+  <img src="public/Docs/Screenshot%202025-11-02%20100514.png" alt="Tampilan Dashboard Admin" width="800"/>
+</p>
+
+
+### 🖥️ Preview Antarmuka Mahasiswa
+Dashboard Mahasiswa
+
+<p align="center">
+  <img src="public/Docs/Screenshot%202025-11-02%20100514.png" alt="Tampilan Dashboard Mahasiswa" width="800"/>
+</p>
 ---
 
 ## 📌 Deskripsi Umum
@@ -127,4 +141,78 @@ SI-MAGANG/
 ├── tests/
 ├── .env.example
 └── artisan
+```
+
+## 🚀 Instalasi & Menjalankan Aplikasi
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/HazelnutDev/SI-MAGANG.git
+cd SI-MAGANG
+```
+
+### 2️⃣ Install Dependency
+```
+composer install
+npm install
+npm run dev
+cp .env.example .env
+php artisan key:generate
+```
+### 3️⃣ Konfigurasi Environment
+```
+Sesuaikan konfigurasi database di file .env:
+DB_DATABASE=si_magang
+DB_USERNAME=root
+DB_PASSWORD=
+```
+
+### 4️⃣ Migrasi Database
+```
+php artisan migrate --seed
+```
+### 5️⃣ Jalankan Server
+```
+php artisan serve
+```
+
+Akses aplikasi di:
+```
+http://127.0.0.1:8000
+```
+
+## 📌 Status Pengembangan
+```
+🟡 Development / Academic Project
+Masih dapat dikembangkan lebih lanjut:
+
+Export PDF
+
+Notifikasi email
+
+Multi-periode magang
+
+API integration
+```
+
+### 📜 Lisensi
+```
+Proyek ini menggunakan lisensi MIT License
+Bebas digunakan untuk pembelajaran, pengembangan, dan modifikasi.
+```
+
+### 🙌 Penutup
+```
+SI-MAGANG dibuat untuk menjadi solusi praktis, rapi, dan scalable dalam pengelolaan program magang.
+Cocok untuk tugas akhir, portfolio, maupun sistem internal organisasi.
+
+Kalau kamu suka, jangan lupa ⭐ repository ini!
+```
+### 🔥 Happy coding & keep building!
+```
+Kalau mau next level:
+- ✅ Tambahin **badge (Laravel, PHP, License)**
+- ✅ Versi **README Bahasa Inggris**
+- ✅ Diagram **ERD / Flow Sistem**
+- ✅ Screenshot UI mockup
 ```
