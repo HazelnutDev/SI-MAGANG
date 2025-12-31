@@ -105,4 +105,26 @@ Sistem ini menggantikan proses manual (Excel, Google Form, dokumen fisik) menjad
 ---
 
 ## 📂 Struktur Direktori
-
+```
+SI-MAGANG/
+├── app/ # Logic utama aplikasi
+│ ├── Models/
+│ ├── Http/
+│ └── Controllers/
+├── bootstrap/
+├── config/
+├── database/
+│ ├── migrations/
+│ └── seeders/
+├── public/
+├── resources/
+│ ├── views/
+│ ├── css/
+│ └── js/
+├── routes/
+│ └── web.php
+├── storage/
+├── tests/
+├── .env.example
+└── artisan
+```
